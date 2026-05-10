@@ -1,0 +1,21 @@
+{
+  "name": "chatbot-pme",
+  "version": "1.0.0",
+  "description": "Chatbot IA pour commerces locaux",
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "demo": "bash scripts/demo.sh",
+    "new-client": "bash scripts/new-client.sh",
+    "backup": "bash scripts/backup.sh"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "cors": "^2.8.5"
+  }
+}

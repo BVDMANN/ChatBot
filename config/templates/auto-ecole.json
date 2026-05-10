@@ -1,0 +1,19 @@
+{
+  "nom": "Permis Flash",
+  "type_commerce": "Auto-École",
+  "adresse": "12 Rue du Code",
+  "ville": "Montpellier",
+  "horaires": "Lun-Ven: 9h-19h, Sam: 9h-13h",
+  "services": ["Code en ligne", "Leçons de conduite", "Stage accéléré", "Accompagnement AAC"],
+  "forfaits": [
+    {"item": "Forfait Code", "prix": "150€"},
+    {"item": "Forfait 20h", "prix": "1200€"},
+    {"item": "Forfait Intensif", "prix": "1800€"}
+  ],
+  "telephone": "04 67 00 00 00",
+  "methode_reservation": "Via le portail élève ou accueil",
+  "site_web": "https://permis-flash-montpellier.fr",
+  "ton_souhaite": "Encourageant, patient et structuré",
+  "instructions_speciales": "Mentionner le taux de réussite élevé de l'école.",
+  "fallback_message": "Je suis en leçon de conduite ! Appelez-nous au 04 67 00 00 00."
+}

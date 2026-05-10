@@ -1,0 +1,13 @@
+[
+  {
+    "id": "demo-restaurant",
+    "nom": "La Bella Pizza",
+    "config": "config/client-actif.json",
+    "url_deployed": "https://chatbot-demo.onrender.com",
+    "date_creation": "2026-05-09",
+    "abonnement": "standard",
+    "tarif_mensuel": 50,
+    "prochain_paiement": "2026-06-09",
+    "statut": "actif"
+  }
+]

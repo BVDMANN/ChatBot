@@ -1,0 +1,19 @@
+{
+  "nom": "Zenith Fitness",
+  "type_commerce": "Centre de Fitness & Bien-être",
+  "adresse": "200 Boulevard du Sport",
+  "ville": "Nantes",
+  "horaires": "7j/7: 6h-23h",
+  "services": ["Musculation", "Cardio", "Cours collectifs", "Coaching personnel", "Sauna/Hammam"],
+  "offres": [
+    {"item": "Abonnement Mensuel", "prix": "39.99€"},
+    {"item": "Pass Annuel", "prix": "390€"},
+    {"item": "Séance Essai", "prix": "Gratuit"}
+  ],
+  "telephone": "02 40 00 00 00",
+  "methode_reservation": "Via l'application Zenith App ou accueil",
+  "site_web": "https://zenith-fitness-nantes.fr",
+  "ton_souhaite": "Dynamique, motivant et énergique",
+  "instructions_speciales": "Inciter les gens à venir tester une séance gratuite.",
+  "fallback_message": "Mon système est en pause sport ! Appelez-nous au 02 40 00 00 00."
+}

@@ -1,0 +1,16 @@
+# Guide de Déploiement Render.com
+
+## Étapes de configuration
+1. Créer un compte sur [Render.com](https://render.com)
+2. Créer un "Web Service" connecté à votre dépôt GitHub.
+3. Choisir le runtime **Node**.
+4. Build Command: `npm install`
+5. Start Command: `npm start`
+
+## Variables d'environnement à ajouter (onglet ENV)
+- `GROQ_API_KEY`: Votre clé API Groq
+- `ADMIN_PASSWORD`: Un mot de passe robuste pour le dashboard
+- `PORT`: 10000 (par défaut sur Render)
+
+## render.yaml
+Le fichier render.yaml est inclus pour un déploiement via Infrastructure-as-Code.

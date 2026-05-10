@@ -1,0 +1,19 @@
+{
+  "nom": "AutoExpert",
+  "type_commerce": "Garage Mécanique & Carrosserie",
+  "adresse": "8 Impasse du Moteur",
+  "ville": "Bordeaux",
+  "horaires": "Lun-Ven: 8h-19h, Sam: 9h-12h",
+  "services": ["Révision complète", "Changement pneus", "Freinage", "Diagnostic électronique", "Peinture"],
+  "prix": [
+    {"item": "Vidange standard", "prix": "89€"},
+    {"item": "Diagnostic valise", "prix": "50€"},
+    {"item": "Pneumatique (montage)", "prix": "20€/pneu"}
+  ],
+  "telephone": "05 56 00 00 00",
+  "methode_reservation": "Par téléphone ou passage direct pour urgences",
+  "site_web": "https://autoexpert-bordeaux.fr",
+  "ton_souhaite": "Professionnel, rassurant et technique",
+  "instructions_speciales": "Mentionner la garantie sur toutes les pièces changées.",
+  "fallback_message": "Je suis momentanément indisponible. Contactez l'atelier au 05 56 00 00 00 !"
+}

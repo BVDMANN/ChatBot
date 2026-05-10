@@ -1,0 +1,20 @@
+{
+  "nom": "Le Style Unique",
+  "type_commerce": "Salon de Coiffure & Barbier",
+  "adresse": "45 Avenue des Arts",
+  "ville": "Lyon",
+  "horaires": "Mar-Sam: 9h-20h, Fermé Dim et Lun",
+  "services": ["Coupe Homme", "Coupe Femme", "Barbe & Soin", "Coloration", "Lissage Brésilien"],
+  "prix": [
+    {"item": "Coupe Homme", "prix": "25€"},
+    {"item": "Coupe Femme", "prix": "45€"},
+    {"item": "Taille de barbe", "prix": "15€"},
+    {"item": "Forfait Complet", "prix": "60€"}
+  ],
+  "telephone": "04 72 00 00 00",
+  "methode_reservation": "Via Planity ou par téléphone",
+  "site_web": "https://lestyleunique-lyon.fr",
+  "ton_souhaite": "Élégant, moderne et accueillant",
+  "instructions_speciales": "Préciser que nous travaillons uniquement sur rendez-vous.",
+  "fallback_message": "Désolé, je rencontre un petit souci technique. Appelez-nous au 04 72 00 00 00 pour prendre rendez-vous !"
+}

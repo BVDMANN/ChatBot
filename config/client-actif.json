@@ -1,0 +1,21 @@
+{
+  "id": "demo-restaurant",
+  "nom": "La Bella Pizza",
+  "type_commerce": "Pizzeria Artisanale",
+  "adresse": "12 Rue des Délices",
+  "ville": "Paris",
+  "horaires": "Lun-Sam: 11h-23h, Dim: 18h-23h",
+  "services": ["Vente à emporter", "Livraison domicile", "Dîner sur place"],
+  "menu": [
+    {"item": "Margherita", "prix": "12€"},
+    {"item": "Reine", "prix": "14€"},
+    {"item": "4 Fromages", "prix": "15€"},
+    {"item": "Calzone", "prix": "16€"}
+  ],
+  "telephone": "01 23 45 67 89",
+  "methode_reservation": "Par téléphone ou via notre site web",
+  "site_web": "https://bellapizza-demo.fr",
+  "ton_souhaite": "Chaleureux, passionné et efficace",
+  "instructions_speciales": "Mettre en avant la pâte artisanale et la mozzarella di bufala.",
+  "fallback_message": "Notre assistant est momentanément indisponible. N'hésitez pas à nous appeler au 01 23 45 67 89 !"
+}

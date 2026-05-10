@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1778344777758,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T16:39:37.758Z",
+    "question": "je voudrais commander acceptez vous les paiements en plusieurs fois ?",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778344799629,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T16:39:59.629Z",
+    "question": "vous fermez a quelle heure ?",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778344813846,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T16:40:13.846Z",
+    "question": "Livraison domicile",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778344818053,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T16:40:18.053Z",
+    "question": "Dîner sur place",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778346084065,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T17:01:24.065Z",
+    "question": "Dîner sur place",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778346091890,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T17:01:31.890Z",
+    "question": "Vente à emporter",
+    "reponse": "C'est une excellente question ! Pour être tout à fait précis, je vous invite à nous appeler au 01 23 45 67 89.",
+    "mode": "demo"
+  },
+  {
+    "id": 1778347174630,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T17:19:34.630Z",
+    "question": "Livraison domicile",
+    "reponse": "Nous proposons une livraison domicile pour que vous puissiez déguster nos délicieuses pizzas, préparées avec amour et soin, à partir de notre pâte artisanale et de notre mozzarella di bufala. Appelez-nous au 01 23 45 67 89 pour passer commande et nous livrerons directement à votre domicile !",
+    "mode": "real"
+  },
+  {
+    "id": 1778347221790,
+    "sessionId": "sess_1778344730648",
+    "timestamp": "2026-05-09T17:20:21.790Z",
+    "question": "jesuis allergique au  gluten tu me conseilles quoi comme pizza",
+    "reponse": "Désolé d'apprendre que vous êtes allergique au gluten ! Nous proposons une option de pizza sans gluten, mais je ne suis pas sûr si elle est disponible actuellement. Appelez-nous au 01 23 45 67 89 pour en être certain. Nous utilisons une pâte artisanale spéciale pour nos pizzas sans gluten, et nous nous assurons de les cuire avec soin pour éviter toute contamination. Nous pourrons vous proposer une solution adaptée à vos besoins. N'hésitez pas à nous contacter pour plus d'informations !",
+    "mode": "real"
+  },
+  {
+    "id": 1778354883791,
+    "sessionId": "sess_1778354862082",
+    "timestamp": "2026-05-09T19:28:03.791Z",
+    "question": "j'ai une allergie particuliere",
+    "reponse": "Je comprends parfaitement, pour nous assurer de votre sécurité et de votre confort, je vous invite à nous contacter directement au 01 23 45 67 89 pour discuter de vos besoins spécifiques avec notre équipe. On vous réserve une table adaptée à vos besoins ?",
+    "mode": "real"
+  }
+]

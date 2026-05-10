@@ -1,0 +1,15 @@
+{
+  "nom": "Pharmacie du Centre",
+  "type_commerce": "Pharmacie d'officine",
+  "adresse": "1 Place de la Mairie",
+  "ville": "Toulouse",
+  "horaires": "Lun-Sam: 8h30-20h",
+  "services": ["Médicaments", "Parapharmacie", "Vaccination", "Orthopédie", "Tests antigéniques"],
+  "garde": "Consulter le site de la CPAM pour les pharmacies de garde",
+  "telephone": "05 61 00 00 00",
+  "methode_reservation": "Sans rendez-vous",
+  "site_web": "https://pharmacie-centre-toulouse.fr",
+  "ton_souhaite": "Sérieux, empathique et professionnel",
+  "instructions_speciales": "Rappeler l'importance de présenter l'ordonnance.",
+  "fallback_message": "Je ne peux pas répondre pour le moment. En cas d'urgence, appelez le 15 ou contactez-nous au 05 61 00 00 00."
+}

@@ -1,0 +1,19 @@
+{
+  "nom": "Pizzeria Mario",
+  "type_commerce": "Restaurant Italien",
+  "adresse": "5 Rue du Fromage",
+  "ville": "Marseille",
+  "horaires": "12h-14h / 19h-23h",
+  "services": ["Dîner", "Livraison", "Click & Collect"],
+  "menu": [
+    {"item": "Pizza Margherita", "prix": "10€"},
+    {"item": "Pizza Diavola", "prix": "12€"},
+    {"item": "Tiramisu Maison", "prix": "6€"}
+  ],
+  "telephone": "04 91 00 00 00",
+  "methode_reservation": "Par téléphone",
+  "site_web": "https://mario-pizza-marseille.fr",
+  "ton_souhaite": "Accueillant et passionné",
+  "instructions_speciales": "Mettre en avant la livraison gratuite dès 20€.",
+  "fallback_message": "Mario est aux fourneaux ! Appelez-nous au 04 91 00 00 00."
+}

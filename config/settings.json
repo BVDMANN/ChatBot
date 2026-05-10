@@ -1,0 +1,9 @@
+{
+  "appName": "ChatPME",
+  "version": "1.0.0",
+  "defaultLanguage": "fr",
+  "sessionTimeoutMinutes": 30,
+  "maxHistoryPerSession": 20,
+  "rateLimitMaxRequests": 20,
+  "rateLimitWindowMs": 60000
+}

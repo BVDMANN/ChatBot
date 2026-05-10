@@ -1,0 +1,24 @@
+[
+  {
+    "id": "client_default",
+    "nom": "Exemple Resto",
+    "ville": "Paris",
+    "adresse": "123 Rue de Rivoli",
+    "telephone": "0102030405",
+    "horaires": "12h-14h / 19h-22h",
+    "type_commerce": "Restaurant Gastronomique",
+    "services": ["Dîner", "Déjeuner", "Privatisation"],
+    "menu": [
+      {"item": "Menu Dégustation", "prix": "85€"},
+      {"item": "Entrée du jour", "prix": "15€"}
+    ],
+    "methode_reservation": "via le bot ou téléphone",
+    "welcomeMsg": "Bonjour ! Je suis l'assistant expert de Exemple Resto. Comment puis-je vous aider aujourd'hui ?",
+    "knowledgeBase": "Le restaurant est spécialisé dans la cuisine fusion. Nous avons un parking gratuit. Nous acceptons les animaux dans la terrasse. Le chef est étoilé.",
+    "colors": {
+      "primary": "#000000",
+      "accent": "#B8860B"
+    },
+    "active": true
+  }
+]
